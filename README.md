@@ -1,3 +1,4 @@
 # Learninggitandgithub
-This is my git and github Learning repository. <br>
-Author: Ambika Nandal 
+This is my git and github Learning repository. 
+<br>
+Author: Ambika Ambadas Nandal 
